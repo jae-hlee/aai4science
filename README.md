@@ -6,9 +6,9 @@
 
 **Registration:** [Register here](https://www.eventbrite.com/e/agentic-ai-for-science-aai4science-hackathon-2025-tickets-1797906650189)
 
-**Colab Notebook:** [AAI4Science 2025 Colab](https://colab.research.google.com/gist/knc6/208db7fa258ae6612c5717ea74bebb3b/aai4science_2025_kc.ipynb)
+**Colab Notebook:** 
 
-**Submission Form:** [Submit your results](https://forms.gle/AycYgYj4ZZoBZE7m9)
+**Submission Form:** 
 
 ---
 
@@ -55,16 +55,16 @@ A Zoom link will be emailed to registered participants.
 ## 🧠 How to Participate
 
 1. **Join the event** (in-person or virtually).
-2. **Open the [Colab notebook](https://colab.research.google.com/gist/knc6/208db7fa258ae6612c5717ea74bebb3b/aai4science_2025_kc.ipynb)** to explore evaluation examples.
+2. **Open the Colab notebook to explore evaluation examples.
 3. **Perform the tasks** using the AI tools discussed.
 4. **Document your findings**—accuracy, reasoning, hallucination cases.
-5. **Submit your results** through the [Google Form](https://forms.gle/AycYgYj4ZZoBZE7m9).
+5. **Submit your results** through the Google Form.
 
 ---
 
 ## 🏆 Recognition
 
-Top evaluations and insights will be highlighted on the **JARVIS-leaderboard** and future publication on the hackathon.
+Top evaluations and insights will be highlighted on the [**JARVIS-leaderboard**](https://atomgptlab.github.io/jarvis_leaderboard/) and future publication on the hackathon.
 
 ---
 
