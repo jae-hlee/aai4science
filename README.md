@@ -7,6 +7,9 @@
 **Submission Form:** [Google Form](https://forms.gle/AycYgYj4ZZoBZE7m9)  
 **AtomGPT.org API (AGAPI):** [GitHub Repository](https://github.com/atomgptlab/agapi)
 
+
+**YouTube video** [https://www.youtube.com/watch?v=L2iqlogVLAc](https://www.youtube.com/watch?v=L2iqlogVLAc)
+
 ---
 
 ## 🌍 Overview
